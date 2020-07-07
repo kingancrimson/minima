@@ -267,6 +267,7 @@ minima:
     linkedin: jekyll
     pinterest: jekyll
     telegram: jekyll
+    twitch: jekyll
     microdotblog: jekyll
     keybase: jekyll
 
